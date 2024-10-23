@@ -4,5 +4,5 @@
 /**
  * 
  */
-module ProcesBuilder {
+module PSP {
 }
